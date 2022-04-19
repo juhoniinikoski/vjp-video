@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/vjp-video/static/css/main.425e3359.css",
+    "main.js": "/vjp-video/static/js/main.f5dd4fc4.js",
+    "static/media/video-3.mp4": "/vjp-video/static/media/video-3.eaf6d3e0b11304bc83c2.mp4",
+    "index.html": "/vjp-video/index.html",
+    "main.425e3359.css.map": "/vjp-video/static/css/main.425e3359.css.map",
+    "main.f5dd4fc4.js.map": "/vjp-video/static/js/main.f5dd4fc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.425e3359.css",
+    "static/js/main.f5dd4fc4.js"
+  ]
+}
