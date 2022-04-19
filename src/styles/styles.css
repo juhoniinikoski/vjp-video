@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Inter:regular,bold,italic,medium,semi-bold');
+
+body {
+  margin: 0;
+  font-family: Inter;
+  font-weight: normal;
+}
+
+h1 {
+  margin: 0;
+  font-size: 36px;
+}
+
+.main-container {
+  font-family: Inter;
+  font-weight: normal;
+  width: 900px;
+  margin: auto;
+  margin-top: 100px;
+}
+
+@media screen and (max-width: 992px) {
+
+  .main-container {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 450px) {
+
+  .main-container {
+    width: 96%;
+  }
+
+}
+
