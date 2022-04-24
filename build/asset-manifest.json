@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vjp-video/static/css/main.687fbc1e.css",
-    "main.js": "/vjp-video/static/js/main.f5dd4fc4.js",
-    "static/media/video-3.mp4": "/vjp-video/static/media/video-3.eaf6d3e0b11304bc83c2.mp4",
+    "main.js": "/vjp-video/static/js/main.c25fa473.js",
+    "static/media/VJPvideo.mp4": "/vjp-video/static/media/VJPvideo.6997f77bc695d13f6f63.mp4",
     "index.html": "/vjp-video/index.html",
     "main.687fbc1e.css.map": "/vjp-video/static/css/main.687fbc1e.css.map",
-    "main.f5dd4fc4.js.map": "/vjp-video/static/js/main.f5dd4fc4.js.map"
+    "main.c25fa473.js.map": "/vjp-video/static/js/main.c25fa473.js.map"
   },
   "entrypoints": [
     "static/css/main.687fbc1e.css",
-    "static/js/main.f5dd4fc4.js"
+    "static/js/main.c25fa473.js"
   ]
 }
